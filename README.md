@@ -1,6 +1,6 @@
 <div align="center">
 
-# Repo Template
+# Gradio Template
 
 <a href="https://pytorch.org/get-started/locally/"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white"></a>
 <a href="https://pytorchlightning.ai/"><img alt="Lightning" src="https://img.shields.io/badge/-Lightning-792ee5?logo=pytorchlightning&logoColor=white"></a>
@@ -12,7 +12,7 @@
 
 ## Description
 
-This is a repo Template for you to use in your AI Project, all actions have been set.
+This is a gradio layout template for you to create an UI for user to inference model and finetune model.
 
 ## Installation
 
